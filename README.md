@@ -27,4 +27,4 @@
 
 ### Решение 3
 
-![img](https://github.com/valery-dubinin/SQL2_hw/blob/main/img/3.png)
+![img](https://github.com/valery-dubinin/SQL2_hw/blob/main/img/4.png)
